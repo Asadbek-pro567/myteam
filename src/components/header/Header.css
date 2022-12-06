@@ -1,3 +1,51 @@
+
+
+
+
 .header{
-    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -92px;
+    margin-left: 50px;
+}
+.header ul{
+    display: flex;
+}
+.header a{
+    color: #fff;
+}
+.header li{
+    margin-left: 20px;
+    list-style-type: none;
+    color: #fff;
+}
+.header button{
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 25px;
+    padding: 10px 30px 10px 30px;
+    background-color: transparent;
+}
+
+.header__list{
+    display: flex;
+    padding-bottom: 120px;
+}
+.header__list h1{
+    width: 400px;
+    font-size: 72px;
+}
+.header__list span{
+    color: #F67E7E;
+}
+.header__list hr{
+    width: 50px;
+    border: 1px solid #79C8C7;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+.header__list p {
+    width: 380px;
+    margin-left: 100px;
+    margin-top: 80px;
 }

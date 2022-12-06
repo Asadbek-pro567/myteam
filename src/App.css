@@ -1,0 +1,97 @@
+
+.container{
+    max-width: 1200px;
+    background-color: #014E56;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 40px;
+    color: #fff;
+}
+.header__circle{
+    position: absolute;
+    margin-left: -280px;
+    margin-top: 110px;
+    width: 80px;
+}
+.header__down{
+    position: absolute;
+    margin-left: 550px;
+    width: 300px;
+    margin-top: 367px;
+}
+.rectangle{
+    position: absolute;
+    margin-left: 540px;
+    margin-top: 365px;
+}
+.user__foto{
+    position: absolute;
+    margin-top: 650px;
+    margin-left: 420px;
+}
+.settings__foto{
+    position: absolute;
+    margin-top: 780px;
+    margin-left: 420px;
+}
+.sxema__foto{
+    position: absolute;
+    margin-top: 900px;
+    margin-left: 420px;
+}
+
+.header__right{
+    position: absolute;
+    margin-top: 805px;
+    margin-left: 1060px;
+}
+
+
+.liniya{
+    position: absolute;
+    margin-top: 1050px;
+    margin-left: -280px;
+}
+
+.odam1{
+    position: absolute;
+    margin-top: 1580px;
+    margin-left: -20px;
+    width: 100px;
+}
+.odam2{
+    position: absolute;
+    margin-top: 1580px;
+    width: 100px;
+    margin-left: 410px;
+}
+.odam3{
+    position: absolute;
+    margin-top: 1580px;
+    width: 100px;
+    margin-left: 840px;
+}
+.oval{
+    position: absolute;
+    margin-top: 1702px;
+    margin-left: 960px;
+}
+
+.ddown{
+    margin-top: 1917px;
+    margin-left: -280px;
+    position: absolute;
+}
+.footer__logo{
+    position: absolute;
+    margin-top: 2110px;
+    margin-left: -50px;
+}
+
+.insta{
+    position: absolute;
+    margin-top: 2110px;
+    margin-left: 900px;
+}

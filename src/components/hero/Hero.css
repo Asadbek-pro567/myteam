@@ -1,13 +1,66 @@
-body{
-    background-color: #000;
-    text-align: center;
+.main__header{
+    background-color: #012F34;
+    height: 600px;
+    width: 1200px;
+    margin-left: -120px;
+    padding-left: 120px;
+    padding-right: 120px;
+    display: flex;
 }
-.hero{
-    background-color: blue;
-    margin-top: -22px;
-    color: rgb(239, 255, 10);
+.main__header hr{
+    position: absolute;
+    width: 50px;
+    margin-top: 100px;
+    border: 1px solid #F67E7E;
+}
+.main__header h1{
+    width: 370px;
+    font-size: 42px;
+    padding-top: 150px;
+}
+.main__header div{
+    margin-left: 300px;
+    margin-top: 150px;
+}
+.main__header h6{
+    font-size: 18px;
+    color: #F67E7E;
+    margin-bottom: 10px;
+    
+}
+.main__header p{
+    width: 445px;
+}
+
+.main__inner{
+    height: 750px;
+}
+.main__inner h1{
+    font-size: 48px;
     text-align: center;
-    width: 100px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-top: 100px;
+}
+.main__inner span{
+    color: #79C8C7;
+}
+.main__flex{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-left: -100px;
+    width: 1200px;
+}
+.main__flex div{
+    width: 350px;
+}
+.main__flex h5{
+    font-size: 15px;
+}
+.main__flex h4{
+    color: #79C8C7;
+    font-size: 22px;
+    margin-bottom: 2px;
+}
+.main__flex p{
+    margin-top: 2px;
 }
