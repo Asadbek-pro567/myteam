@@ -49,3 +49,64 @@
     margin-left: 100px;
     margin-top: 80px;
 }
+
+
+@media screen and (max-width: 600px) {
+    body{
+        background-color: #014E56;
+    }
+    .container{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .header{
+    }
+    .header ul{
+        padding-top: 5px;
+        
+    }
+    .header li a{
+        font-size: 11px;
+    }
+    .header button{
+        font-size: 11px;
+        padding: 0;
+        border-radius: 5px;
+        height: 30px;
+        width: 70px;
+        margin-top: 20px;
+    }
+    .header__circle{
+        display: none;
+    }
+    .header__list{
+        display: block;
+        margin-bottom: 80px;
+    }
+    .header__list h1{
+        width: 220px;
+        font-size: 40px;
+        text-align: center;
+    }
+    .rasm{
+        width: 90px;
+    }
+    .header__list p{
+        margin: 0;
+        width: 100%;
+    }
+    .header__list hr{
+        display: none;
+    }
+    .header__down{
+        margin-left: -100px;
+        margin-top: 404px;
+        width: 80%;
+    }
+    .rectangle{
+        margin-left: -110px;
+        margin-top: 390px;
+    }
+
+    
+}

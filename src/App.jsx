@@ -23,7 +23,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <img src={Rasm} alt=""/>
+        <img src={Rasm} alt="" className='rasm'/>
         <img className='header__circle' src={Circle} alt="" />
         <img className='header__down' src={Down} alt="" />
         <img src={Rectangle} alt="" className="rectangle" />
